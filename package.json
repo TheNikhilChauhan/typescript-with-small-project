@@ -1,0 +1,24 @@
+{
+  "name": "01.typescript-with-small-project",
+  "version": "1.0.0",
+  "description": "-Reviewing core TypeScript concepts while exploring the latest features introduced in recent versions (up to TS 5.8). Planning to build a small React project using TypeScript to apply these concepts in a practical way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNikhilChauhan/typescript-with-small-project.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TheNikhilChauhan/typescript-with-small-project/issues"
+  },
+  "homepage": "https://github.com/TheNikhilChauhan/typescript-with-small-project#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
