@@ -26,11 +26,3 @@ console.log(result, data);
 const s1: symbol = Symbol("Air");
 const s2 = Symbol("Air");
 console.log(s1 === s2);
-
-//function - doesn't return anything
-
-function greet(firstName: string) {
-  console.log("Hello " + firstName);
-}
-
-greet("Tony Stark");
