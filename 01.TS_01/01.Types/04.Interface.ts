@@ -15,7 +15,7 @@ console.log(aPerson.name);
 
 //1
 
-interface users {
+/* interface users {
   name: string;
   readonly age: number;
   lastName?: string; //optional
@@ -41,9 +41,9 @@ interface Person {
   name: string;
   age: number;
   greet(phrase: string): void;
-}
+} */
 
-class Employee implements Person {
+/* class Employee implements Person {
   name: string;
   age: number;
 
@@ -55,9 +55,9 @@ class Employee implements Person {
   greet(phrase: string) {
     console.log(`${phrase} ${this.name}`);
   }
-}
+} */
 
-let employee = new Employee("Gregory", 42);
+/* let employee = new Employee("Gregory", 42);
 
 console.log(employee.name, employee.age);
-employee.greet("Good Morning");
+employee.greet("Good Morning"); */
